@@ -9,6 +9,7 @@
 - [RP-S40-ST Thin Film Pressure Sensor 40mmx40mm](https://www.kuriosity.sg/rp-s40-st-thin-film-pressure-sensor-40mmx40mm/)
 - [Rainbow LED 1x5 Module WS2812](https://www.kuriosity.sg/rainbow-led-1x5-module/)
 - [Clock Module RTC DS3231](https://www.kuriosity.sg/clock-module-rtc-ds3231/)
+- [Active Buzzer Module](https://www.kuriosity.sg/active-buzzer-module-oem/)
 - 10k Variable Resistor
 - 10k Resistor
 
