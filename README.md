@@ -1,5 +1,5 @@
 # Alarm-Clock
-...
+This tutorial explains how a feature-packed alarm clock, complete with an LCD screen, buzzer, and a button to put it to sleep can be built with an Arduino Uno, a clock module, an active buzzer, and a handful of other sensors and components.
 
 ## Hardware Required
 - [Arduino Uno](https://www.kuriosity.sg/arduino-uno-oem/)
@@ -14,4 +14,4 @@
 - 10k Resistor
 
 ## Tutorial
-- [Arduino Tutorial: ESP32 RFID App Lock](https://www.kuriosity.sg/blog/arduino-tutorial-esp32-blynk-rfid-app-lock)
+- [Arduino Tutorial: Alarm Clock](https://www.kuriosity.sg/blog/arduino-tutorial-alarm-clock)
